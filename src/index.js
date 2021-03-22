@@ -2,7 +2,7 @@
 
 const modeSwitch = document.getElementById("toggleMode")
 
-if (localStorage.theme === "dark") modeSwitch.checked = true
+if (localStorage.theme === "dark" || (!("theme" in localStorage) && window.matchMedia("(prefers-color-scheme: dark)").matches)) modeSwitch.checked = true
 
 modeSwitch.addEventListener("change", function() {
 	if (this.checked) {
