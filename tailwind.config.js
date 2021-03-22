@@ -1,11 +1,21 @@
+const defaultTheme = require('tailwindcss/defaultTheme')
+
 module.exports = {
   purge: [],
-  darkMode: 'media',
+  darkMode: 'class',
   theme: {
-    extend: {},
+    extend: {
+			fontFamily: {
+				'sans': ['Railway', ...defaultTheme.fontFamily.sans],
+				'serif': [...defaultTheme.fontFamily.serif],
+				'mono': [...defaultTheme.fontFamily.mono]
+			},
+		},
   },
   variants: {
     extend: {},
   },
-  plugins: [],
+  plugins: [
+		require("tailwindcss-hyphens")
+	],
 }

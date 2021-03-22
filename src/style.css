@@ -1,0 +1,13 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.toggle-checkbox:checked {
+  @apply: right-0 border-gray-700;
+  right: 0;
+  border-color: rgb(55, 65, 81);
+}
+.toggle-checkbox:checked + .toggle-label {
+  @apply: bg-gray-700;
+  background-color: rgb(55, 65, 81);
+}

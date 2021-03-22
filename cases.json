@@ -1,213 +1,215 @@
-[
-	{
-		"title": null,
-		"first_name": "Philipp",
-		"last_name": "Amthor",
-		"party": "CDU",
-		"accusations": [
-			{
-				"date": "2020-06-12",
-				"description": "Lobbyismus für Augustus Intelligence mit Aktienoptionen im Wert von ca. 250.000 $ (nicht eingelöst) und bezahlten Luxusreisen",
-				"value": 0,
-				"proofs": [
-					"https://www.spiegel.de/politik/deutschland/cdu-philipp-amthor-raeumt-fehler-ein-a-30af4ad1-04ed-4543-b64e-9dda6eaab859",
-					"https://de.wikipedia.org/wiki/Philipp_Amthor#Lobbyismus-Aff%C3%A4re"
-				]
-			}
-		],
-		"left_party": false,
-		"resigned_mandate": false
-	},
-	{
-		"title": null,
-		"first_name": "Jens",
-		"last_name": "Spahn",
-		"party": "CDU",
-		"accusations": [
-			{
-				"date": "2021-02-28",
-				"description": "Spendendinner (während der Corona-Krise !) mit Unternehmern, Aufruf zu Spenden i. H. v. 9.999 € an seinen Kreisverband (ab 10.000 € müssen Spenden veröffentlicht werden)",
-				"value": null,
-				"proofs": [
-					"https://www.spiegel.de/politik/deutschland/jens-spahn-nach-spendendinner-harscher-kritik-ausgesetzt-a-aa96a285-2c70-4db2-a6da-e92200cdfa32"
-				]
-			},
-			{
-				"date": "2021-08-16",
-				"value": 0,
-				"description": "Umstrittene Immobilienkäufe, u. A. mit ehemaligem Botschafter der USA",
-				"proofs": [
-					"https://www.businessinsider.de/politik/bundesgesundheitsminister-spahn-kauft-luxusvilla-fuer-mehrere-millionen-euro/",
-					"https://www.tagesspiegel.de/27018188.html"
-				]
-			},
-			{
-				"date": "2021-03-21",
-				"value": null,
-				"description": "Maskendeals von Spahns Ehemann im Wert von 909.000 € ans Gesundheitsministerium",
-				"proofs": [
-					"https://www.spiegel.de/politik/deutschland/corona-schutzausruestung-unternehmen-von-jens-spahns-ehemann-verkaufte-masken-an-gesundheitsministerium-a-3f23f507-8818-4d88-829f-e938139aa3c8"
-				]
-			}
-		],
-		"left_party": false,
-		"resigned_mandate": false
-	},
-	{
-		"title": null,
-		"first_name": "Nikolas",
-		"last_name": "Löbel",
-		"party": "CDU",
-		"accusations": [
-			{
-				"date": "2021-03-05",
-				"value": 250000,
-				"description": "250.000 € Provision für Maskendeals",
-				"proofs": [
-					"https://www.spiegel.de/politik/deutschland/corona-masken-cdu-hinterbaenkler-kassierte-250-000-euro-provision-a-a5e31c3d-0002-0001-0000-000176138620"
-				]
-			}
-		],
-		"left_party": "2021-03-08",
-		"resigned_mandate": "2021-03-08"
-	},
-	{
-		"title": null,
-		"first_name": "Georg",
-		"last_name": "Nüßlein",
-		"party": "CSU",
-		"accusations": [
-			{
-				"date": "2021-02-21",
-				"value": 660000,
-				"description": "660.000 € Bestechung für Maskendeals",
-				"proofs": [
-					"https://www.spiegel.de/politik/deutschland/georg-nuesslein-csu-politiker-soll-von-hessischem-lieferanten-bestochen-worden-sein-a-4f7a49ca-beb1-40f1-b4a8-3376e9c6d559"
-				]
-			}
-		],
-		"left_party": "2021-03-08",
-		"resigned_mandate": false
-	},
-	{
-		"title": null,
-		"first_name": "Alfred",
-		"last_name": "Sauter",
-		"party": "CSU",
-		"accusations": [
-			{
-				"date": "2021-03-17",
-				"description": "Maskendeals im Zusammenhanhang mit Georg Nüßlein",
-				"value": null,
-				"proofs": [
-					"https://www.br.de/nachrichten/bayern/masken-affaere-razzia-bei-bayerns-ex-justizminister-sauter,SRuPchK",
-					"https://www.br.de/nachrichten/deutschland-welt/sauter-und-nuesslein-das-geflecht-hinter-der-maskenaffaere,SRwMXF9"
-				]
-			}
-		],
-		"left_party": false,
-		"resigned_mandate": false
-	},
-	{
-		"title": null,
-		"first_name": "Mark",
-		"last_name": "Hauptmann",
-		"party": "CDU",
-		"accusations": [
-			{
-				"date": "2021-03-10",
-				"description": "Lobbyismus für Aserbaidschan",
-				"value": null,
-				"proofs": [
-					"https://www.spiegel.de/politik/deutschland/weiterer-cdu-politiker-wegen-aserbaidschan-geld-unter-verdacht-a-c2f14351-056b-42ad-bce0-0c15dcc763d2",
-					"https://taz.de/Lokalblatt-von-CDU-Politiker-Hauptmann/!5757822/"
-				]
-			},
-			{
-				"date": "2021-03-14",
-				"value": 7000,
-				"description": "7.000 € Spende Maskendeals an seinen Kreisverband",
-				"proofs": [
-					"https://twitter.com/BastianBrauns/status/1371129748366225411"
-				]
-			}
-		],
-		"left_party": false,
-		"resigned_mandate": "2021-03-19"
-	},
-	{
-		"title": null,
-		"first_name": "Axel",
-		"last_name": "Fischer",
-		"party": "CDU",
-		"accusations": [
-			{
-				"date": "2021-03-04",
-				"description": "Lobbyismus für Aserbaidschan",
-				"value": null,
-				"proofs": [
-					"https://sz.de/1.5224688"
-				]
-			}
-		],
-		"left_party": false,
-		"resigned_mandate": false
-	},
-	{
-		"title": null,
-		"first_name": "Karin",
-		"last_name": "Strenz",
-		"party": "CSU",
-		"accusations": [
-			{
-				"date": "2017-10-19",
-				"description": "Lobbyismus für Aserbaidschan für mindestens 15.000 €",
-				"value": 15000,
-				"proofs": [
-					"https://www.sueddeutsche.de/politik/bundestag-die-aserbaidschan-connection-1.3671979",
-					"https://www.abgeordnetenwatch.de/blog/lobbyismus/strenz-wich-fragen-zu-aserbaidschan-bereits-2015-aus-heute-ermittelt-die",
-					"https://www.abgeordnetenwatch.de/blog/nebentaetigkeiten/wie-wir-die-luege-einer-bundestagsabgeordneten-nachwiesen"
-				]
-			}
-		],
-		"left_party": false,
-		"resigned_mandate": false
-	},
-	{
-		"title": null,
-		"first_name": "Tobias",
-		"last_name": "Zech",
-		"party": "CSU",
-		"accusations": [
-			{
-				"date": "2021-03-18",
-				"description": "Interessenskonflikt mit mazedonischer Regierungspartei",
-				"value": null,
-				"proofs": [
-					"https://www.pnp.de/3941982.html",
-					"https://www.tagesschau.de/inland/innenpolitik/zech-csu-101.html"
-				]
-			}
-		],
-		"left_party": false,
-		"resigned_mandate": "2021-03-18"
-	},
-	{
-		"title": null,
-		"first_name": "Karl",
-		"last_name": "Straub",
-		"party": "CSU",
-		"accusations": [
-			{
-				"date": "2021-03-19",
-				"description": "Betrug, Insolvenzverschleppung, Steuerhinterziehung",
-				"value": null,
-				"proofs": [
-					"https://www.br.de/nachrichten/bayern/ermittlungen-gegen-csu-landtagsabgeordneten-straub,SS8D81K"
-				]
-			}
-		],
-		"left_party": false,
-		"resigned_mandate": false
-	}
-]
+{
+	"people":	[
+		{
+			"title": null,
+			"first_name": "Philipp",
+			"last_name": "Amthor",
+			"party": "CDU",
+			"accusations": [
+				{
+					"date": "2020-06-12",
+					"description": "Lobbyismus für Augustus Intelligence mit Aktienoptionen im Wert von ca. 250.000 $ (nicht eingelöst) und bezahlten Luxusreisen",
+					"value": 0,
+					"proofs": [
+						"https://www.spiegel.de/politik/deutschland/cdu-philipp-amthor-raeumt-fehler-ein-a-30af4ad1-04ed-4543-b64e-9dda6eaab859",
+						"https://de.wikipedia.org/wiki/Philipp_Amthor#Lobbyismus-Aff%C3%A4re"
+					]
+				}
+			],
+			"left_party": false,
+			"resigned_mandate": false
+		},
+		{
+			"title": null,
+			"first_name": "Jens",
+			"last_name": "Spahn",
+			"party": "CDU",
+			"accusations": [
+				{
+					"date": "2021-02-28",
+					"description": "Spendendinner (während der Corona-Krise !) mit Unternehmern, Aufruf zu Spenden i. H. v. 9.999 € an seinen Kreisverband (ab 10.000 € müssen Spenden veröffentlicht werden)",
+					"value": null,
+					"proofs": [
+						"https://www.spiegel.de/politik/deutschland/jens-spahn-nach-spendendinner-harscher-kritik-ausgesetzt-a-aa96a285-2c70-4db2-a6da-e92200cdfa32"
+					]
+				},
+				{
+					"date": "2021-08-16",
+					"value": 0,
+					"description": "Umstrittene Immobilienkäufe, u. A. mit ehemaligem Botschafter der USA",
+					"proofs": [
+						"https://www.businessinsider.de/politik/bundesgesundheitsminister-spahn-kauft-luxusvilla-fuer-mehrere-millionen-euro/",
+						"https://www.tagesspiegel.de/27018188.html"
+					]
+				},
+				{
+					"date": "2021-03-21",
+					"value": null,
+					"description": "Maskendeals von Spahns Ehemann im Wert von 909.000 € ans Gesundheitsministerium",
+					"proofs": [
+						"https://www.spiegel.de/politik/deutschland/corona-schutzausruestung-unternehmen-von-jens-spahns-ehemann-verkaufte-masken-an-gesundheitsministerium-a-3f23f507-8818-4d88-829f-e938139aa3c8"
+					]
+				}
+			],
+			"left_party": false,
+			"resigned_mandate": false
+		},
+		{
+			"title": null,
+			"first_name": "Nikolas",
+			"last_name": "Löbel",
+			"party": "CDU",
+			"accusations": [
+				{
+					"date": "2021-03-05",
+					"value": 250000,
+					"description": "250.000 € Provision für Maskendeals",
+					"proofs": [
+						"https://www.spiegel.de/politik/deutschland/corona-masken-cdu-hinterbaenkler-kassierte-250-000-euro-provision-a-a5e31c3d-0002-0001-0000-000176138620"
+					]
+				}
+			],
+			"left_party": "2021-03-08",
+			"resigned_mandate": "2021-03-08"
+		},
+		{
+			"title": null,
+			"first_name": "Georg",
+			"last_name": "Nüßlein",
+			"party": "CSU",
+			"accusations": [
+				{
+					"date": "2021-02-21",
+					"value": 660000,
+					"description": "660.000 € Bestechung für Maskendeals",
+					"proofs": [
+						"https://www.spiegel.de/politik/deutschland/georg-nuesslein-csu-politiker-soll-von-hessischem-lieferanten-bestochen-worden-sein-a-4f7a49ca-beb1-40f1-b4a8-3376e9c6d559"
+					]
+				}
+			],
+			"left_party": "2021-03-08",
+			"resigned_mandate": false
+		},
+		{
+			"title": null,
+			"first_name": "Alfred",
+			"last_name": "Sauter",
+			"party": "CSU",
+			"accusations": [
+				{
+					"date": "2021-03-17",
+					"description": "Maskendeals im Zusammenhanhang mit Georg Nüßlein",
+					"value": null,
+					"proofs": [
+						"https://www.br.de/nachrichten/bayern/masken-affaere-razzia-bei-bayerns-ex-justizminister-sauter,SRuPchK",
+						"https://www.br.de/nachrichten/deutschland-welt/sauter-und-nuesslein-das-geflecht-hinter-der-maskenaffaere,SRwMXF9"
+					]
+				}
+			],
+			"left_party": false,
+			"resigned_mandate": false
+		},
+		{
+			"title": null,
+			"first_name": "Mark",
+			"last_name": "Hauptmann",
+			"party": "CDU",
+			"accusations": [
+				{
+					"date": "2021-03-10",
+					"description": "Lobbyismus für Aserbaidschan",
+					"value": null,
+					"proofs": [
+						"https://www.spiegel.de/politik/deutschland/weiterer-cdu-politiker-wegen-aserbaidschan-geld-unter-verdacht-a-c2f14351-056b-42ad-bce0-0c15dcc763d2",
+						"https://taz.de/Lokalblatt-von-CDU-Politiker-Hauptmann/!5757822/"
+					]
+				},
+				{
+					"date": "2021-03-14",
+					"value": 7000,
+					"description": "7.000 € Spende Maskendeals an seinen Kreisverband",
+					"proofs": [
+						"https://twitter.com/BastianBrauns/status/1371129748366225411"
+					]
+				}
+			],
+			"left_party": false,
+			"resigned_mandate": "2021-03-19"
+		},
+		{
+			"title": null,
+			"first_name": "Axel",
+			"last_name": "Fischer",
+			"party": "CDU",
+			"accusations": [
+				{
+					"date": "2021-03-04",
+					"description": "Lobbyismus für Aserbaidschan",
+					"value": null,
+					"proofs": [
+						"https://sz.de/1.5224688"
+					]
+				}
+			],
+			"left_party": false,
+			"resigned_mandate": false
+		},
+		{
+			"title": null,
+			"first_name": "Karin",
+			"last_name": "Strenz",
+			"party": "CSU",
+			"accusations": [
+				{
+					"date": "2017-10-19",
+					"description": "Lobbyismus für Aserbaidschan für mindestens 15.000 €",
+					"value": 15000,
+					"proofs": [
+						"https://www.sueddeutsche.de/politik/bundestag-die-aserbaidschan-connection-1.3671979",
+						"https://www.abgeordnetenwatch.de/blog/lobbyismus/strenz-wich-fragen-zu-aserbaidschan-bereits-2015-aus-heute-ermittelt-die",
+						"https://www.abgeordnetenwatch.de/blog/nebentaetigkeiten/wie-wir-die-luege-einer-bundestagsabgeordneten-nachwiesen"
+					]
+				}
+			],
+			"left_party": false,
+			"resigned_mandate": false
+		},
+		{
+			"title": null,
+			"first_name": "Tobias",
+			"last_name": "Zech",
+			"party": "CSU",
+			"accusations": [
+				{
+					"date": "2021-03-18",
+					"description": "Interessenskonflikt mit mazedonischer Regierungspartei",
+					"value": null,
+					"proofs": [
+						"https://www.pnp.de/3941982.html",
+						"https://www.tagesschau.de/inland/innenpolitik/zech-csu-101.html"
+					]
+				}
+			],
+			"left_party": false,
+			"resigned_mandate": "2021-03-18"
+		},
+		{
+			"title": null,
+			"first_name": "Karl",
+			"last_name": "Straub",
+			"party": "CSU",
+			"accusations": [
+				{
+					"date": "2021-03-19",
+					"description": "Betrug, Insolvenzverschleppung, Steuerhinterziehung",
+					"value": null,
+					"proofs": [
+						"https://www.br.de/nachrichten/bayern/ermittlungen-gegen-csu-landtagsabgeordneten-straub,SS8D81K"
+					]
+				}
+			],
+			"left_party": false,
+			"resigned_mandate": false
+		}
+	]
+}

@@ -1,0 +1,10 @@
+<li>
+	<p>Datum des Bekanntwerdens: {{date date}}</p>
+	<p class="hyphens-auto">Beschreibung: {{description}}</p>
+	<p>Erhaltene Geldsumme: {{money value}}</p>
+	<p>Quellen: 	
+		{{#each proofs as |proof|}}
+			<a href="{{proof}}" title="{{hostname proof}}" class="underline hover:text-blue-400">[{{incremented @index}}]</a>
+		{{/each}}
+	</p>
+</li>

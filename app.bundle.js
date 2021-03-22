@@ -1,0 +1,2 @@
+(()=>{const e=document.getElementById("toggleMode");"dark"===localStorage.theme&&(e.checked=!0),e.addEventListener("change",(function(){this.checked?localStorage.theme="dark":localStorage.theme="light",toggleMode()}))})();
+//# sourceMappingURL=app.bundle.js.map

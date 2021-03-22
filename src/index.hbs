@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+	<script>
+		toggleMode()
+
+		function toggleMode() {
+			if (localStorage.theme === "dark" || (!("theme" in localStorage) && window.matchMedia("(prefers-color-scheme: dark)").matches)) {
+				document.documentElement.classList.add("dark")
+			} else {
+				document.documentElement.classList.remove("dark")
+			}
+		}
+	</script>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Union Affairs</title>
+	<link rel="stylesheet" href="main.css"> 
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body class="bg-white dark:bg-gray-800">
+	<header class="bg-gradient-to-tr from-gray-200 to-gray-300 dark:from-gray-700 dark:to-gray-800" style="clip-path: polygon(0 0, 100% 0, 100% 100%, 0 85%);">
+		<nav>
+			<div class="block flex mx-5 border-b-2 h-16 border-gray-100 justify-between">
+				<a aria-current="page" class="flex items-center self-center hover:scale-110 transform transition-transform duration-200 ease-in" href="/">
+					<img src="img/logo.svg" alt="Union Affairs" style="height: 40px;">
+				</a>
+				<div class="sm:border-l-2 border-gray-100 my-3 flex items-center tracking-wide pl-6 font-bold">
+					<a href="http://github.com/silas229/union-affairs" class="mr-6 uppercase text-gray-700 hover:text-gray-500 dark:text-gray-100">Github</a>
+					<a href="http://github.com/silas229/union-affairs/issues" class="mr-6 uppercase text-gray-700 hover:text-gray-500 dark:text-gray-100">Fehler melden</a>
+					<!-- component -->
+					<label for="toggleMode" class="text-xs text-gray-700">☀</label>
+					<div class="relative inline-block w-10 mx-2 align-middle select-none transition duration-200 ease-in">
+						<input type="checkbox" id="toggleMode" class="toggle-checkbox absolute block w-6 h-6 rounded-full bg-white border-4 appearance-none cursor-pointer"/>
+						<label for="toggleMode" class="toggle-label block overflow-hidden h-6 rounded-full bg-gray-300 cursor-pointer"></label>
+					</div>
+					<label for="toggleMode" class="text-xs text-gray-700">🌙</label>
+				</div>
+			</div>
+		</nav>
+		<div class="pt-10 sm:pt-16 pb-32 sm:pb-48 px-4">
+			<div class="max-w-3xl mx-auto">
+				<h1 class="text-3xl sm:text-4xl font-bold leading-tight text-gray-800 dark:text-gray-100">
+					Übersicht der Korruptionsvorwürfe in der CDU/CSU
+				</h1>
+			</div>
+		</div>
+	</header>
+  <main class="flex flex-col items-stretch mx-auto max-w-6xl sm:overflow-hidden pb-32">
+		<section class="min-w-0 px-5 pb-10">
+			<div class="w-full">
+				{{#each people}}
+					{{> components/card-person}}
+				{{/each}}
+			</div>
+		</section>
+	</main>
+	<script src="app.bundle.js"></script>
+</body>
+</html>
