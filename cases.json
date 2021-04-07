@@ -48,6 +48,24 @@
 		},
 		{
 			"title": null,
+			"first_name": "Armin",
+			"last_name": "Laschet",
+			"party": "CDU",
+			"accusations": [
+				{
+					"date": "2020-12-02",
+					"value": 0,
+					"description": "Vetternwirtschaft bei Maskenbeschaffung",
+					"proofs": [
+						"https://www.handelsblatt.com/26676034.html"
+					]
+				}
+			],
+			"left_party": false,
+			"resigned_mandate": false
+		},
+		{
+			"title": null,
 			"first_name": "Nikolas",
 			"last_name": "Löbel",
 			"party": "CDU",
@@ -90,16 +108,57 @@
 			"accusations": [
 				{
 					"date": "2021-03-17",
-					"description": "Maskendeals im Zusammenhanhang mit Georg Nüßlein",
-					"value": null,
+					"description": "1,2 Mio. € Provision für Maskendeals im Zusammenhanhang mit Georg Nüßlein",
+					"value": 1200000,
 					"proofs": [
 						"https://www.br.de/nachrichten/bayern/masken-affaere-razzia-bei-bayerns-ex-justizminister-sauter,SRuPchK",
-						"https://www.br.de/nachrichten/deutschland-welt/sauter-und-nuesslein-das-geflecht-hinter-der-maskenaffaere,SRwMXF9"
+						"https://www.br.de/nachrichten/deutschland-welt/sauter-und-nuesslein-das-geflecht-hinter-der-maskenaffaere,SRwMXF9",
+						"https://www.sueddeutsche.de/bayern/maskenaffaere-sauter-csu-korruptionsvorwuerfe-staatsanwaltschaft-1.5239399"
 					]
 				}
 			],
 			"left_party": false,
 			"resigned_mandate": false
+		},
+		{
+			"title": null,
+			"first_name": "Andrea",
+			"last_name": "Tandler",
+			"party": "CSU",
+			"accusations": [
+				{
+					"date": "2021-03-09",
+					"description": "Maskendeals",
+					"value": null,
+					"proofs": [
+						"https://www.n-tv.de/politik/Der-Maskenskandal-wird-zur-CSU-Affaere-article22412157.html",
+						"https://www.faz.net/aktuell/wirtschaft/hanks-welt/maskenskandal-was-ist-der-oekonomische-schaden-17253873.html"
+					]
+				}
+			],
+			"left_party": false,
+			"resigned_mandate": false
+
+		},
+		{
+			"title": null,
+			"first_name": "Monika",
+			"last_name": "Hohlmeier",
+			"party": "CSU",
+			"accusations": [
+				{
+					"date": "2021-03-09",
+					"description": "Maskendeals im Zusammenhang mit Andrea Tandler",
+					"value": null,
+					"proofs": [
+						"https://www.n-tv.de/politik/Der-Maskenskandal-wird-zur-CSU-Affaere-article22412157.html",
+						"https://www.faz.net/aktuell/wirtschaft/hanks-welt/maskenskandal-was-ist-der-oekonomische-schaden-17253873.html"
+					]
+				}
+			],
+			"left_party": false,
+			"resigned_mandate": false
+
 		},
 		{
 			"title": null,
@@ -148,6 +207,43 @@
 		},
 		{
 			"title": null,
+			"first_name": "Thomas",
+			"last_name": "Bareiß",
+			"accusations": [
+				{
+					"date": "2021-03-23",
+					"description": "Lobbyismus für Aserbaidschan",
+					"value": null,
+					"proofs": [
+						"https://www.vice.com/de/article/akd5ne/aserbaidschan-affare-die-abenteuerlichen-reisen-eines-deutschen-staatssekretars",
+						"https://www.vice.com/de/article/qjp74b/aserbaidschan-affare-der-diktator-die-cdu-der-moderator-und-das-geld"
+					]
+				}
+			],
+			"left_party": false,
+			"resigned_mandate": false
+		},
+		{
+			"title": null,
+			"first_name": "Olav",
+			"last_name": "Gutting",
+			"accusations": [
+				{
+					"date": "2021-03-23",
+					"description": "Lobbyismus für Aserbaidschan",
+					"value": null,
+					"proofs": [
+						"https://www.vice.com/de/article/qjp74b/aserbaidschan-affare-der-diktator-die-cdu-der-moderator-und-das-geld",
+						"https://www.vice.com/de/article/akd5ne/aserbaidschan-affare-die-abenteuerlichen-reisen-eines-deutschen-staatssekretars"
+
+					]
+				}
+			],
+			"left_party": false,
+			"resigned_mandate": false
+		},
+		{
+			"title": null,
 			"first_name": "Karin",
 			"last_name": "Strenz",
 			"party": "CDU",
@@ -160,6 +256,53 @@
 						"https://www.sueddeutsche.de/politik/bundestag-die-aserbaidschan-connection-1.3671979",
 						"https://www.abgeordnetenwatch.de/blog/lobbyismus/strenz-wich-fragen-zu-aserbaidschan-bereits-2015-aus-heute-ermittelt-die",
 						"https://www.abgeordnetenwatch.de/blog/nebentaetigkeiten/wie-wir-die-luege-einer-bundestagsabgeordneten-nachwiesen"
+					]
+				}
+			],
+			"left_party": false,
+			"resigned_mandate": false
+		},
+		{
+			"title": null,
+			"first_name": "Eduard",
+			"last_name": "Lintner",
+			"party": "CSU",
+			"accusations": [
+				{
+					"date": "2017-09-04",
+					"description": "Lobbyismus für Aserbaidschan für 819.500 €",
+					"value": 819500,
+					"proofs": [
+						"https://www.theguardian.com/world/2017/sep/04/uk-at-centre-of-secret-3bn-azerbaijani-money-laundering-and-lobbying-scheme",
+						"https://www.theguardian.com/world/2017/sep/04/everything-you-need-to-know-about-the-azerbaijani-laundromat",
+						"https://de.wikipedia.org/wiki/Eduard_Lintner#Einflussnahme_f%C3%BCr_Aserbaidschan"
+					]
+				}
+			],
+			"left_party": false,
+			"resigned_mandate": false
+		},
+		{
+			"title": null,
+			"first_name": "Joachim",
+			"last_name": "Pfeiffer",
+			"party": "CDU",
+			"accusations": [
+				{
+					"date": "2021-03-16",
+					"description": "Interessenskonflikte bei Beratungsunternehmen",
+					"value": null,
+					"proofs": [
+						"https://www.zeit.de/2021/13/joachim-pfeiffer-lobbyismus-energiepolitik-cdu-nebentaetigkeit-honoralkonsul/komplettansicht",
+						"https://www.zeit.de/politik/deutschland/2021-03/lobbyismus-cdu-bundestag-masken-affaere-consulting-korruption/komplettansicht"
+					]
+				},
+				{
+					"date": "2021-03-12",
+					"description": "Lobbyismus für Aserbaidschan",
+					"value": null,
+					"proofs": [
+						"https://www.faz.net/aktuell/politik/inland/masken-affaere-alle-unionsabgeordneten-unterzeichnen-ehrenerklaerung-17242495.html"
 					]
 				}
 			],
@@ -193,10 +336,39 @@
 			"accusations": [
 				{
 					"date": "2021-03-19",
-					"description": "Betrug, Insolvenzverschleppung, Steuerhinterziehung",
+					"description": "Betrug",
 					"value": null,
 					"proofs": [
 						"https://www.br.de/nachrichten/bayern/ermittlungen-gegen-csu-landtagsabgeordneten-straub,SS8D81K"
+					]
+				},
+				{
+					"date": "2021-03-19",
+					"description": "Steuerhinterziehung",
+					"value": null,
+					"proofs": [
+						"https://www.br.de/nachrichten/bayern/ermittlungen-gegen-csu-landtagsabgeordneten-straub,SS8D81K"
+					]
+				}
+			],
+			"left_party": false,
+			"resigned_mandate": false
+		},
+		{
+			"title": null,
+			"first_name": "Franz",
+			"last_name": "Rieger",
+			"party": "CSU",
+			"accusations": [
+				{
+					"date": "2018-02-16",
+					"description": "Erhalt von illegalen Parteispenden",
+					"value": 60000,
+					"proofs": [
+						"https://www.br.de/nachrichten/bayern/durchsuchung-bei-csu-kreisvorsitzender-zeigt-sich-gelassen,QjnHXoO",
+						"http://web.archive.org/web/20190129040826/https://www.br.de/nachricht/oberpfalz/inhalt/parteispendenaffaere-raeume-von-franz-rieger-durchsucht-100.html",
+						"http://web.archive.org/web/20181220210710/https://www.br.de/nachricht/oberpfalz/inhalt/wolbergs-zu-ermittlungen-gegen-csu-chef-es-gilt-unschuldsvermutung-100.html",
+						"https://www.regensburg-digital.de/?p=72579"
 					]
 				}
 			],
