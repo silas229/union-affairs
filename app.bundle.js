@@ -1,2 +1,2 @@
-(()=>{const e=document.getElementById("toggleMode");("dark"===localStorage.theme||!("theme"in localStorage)&&window.matchMedia("(prefers-color-scheme: dark)").matches)&&(e.checked=!0),e.addEventListener("change",(function(){this.checked?localStorage.theme="dark":localStorage.theme="light",toggleMode()}))})();
+(()=>{"use strict";const e=document.getElementById("toggleMode");("dark"===localStorage.theme||!("theme"in localStorage)&&window.matchMedia("(prefers-color-scheme: dark)").matches)&&(e.checked=!0),e.addEventListener("change",(function(){this.checked?localStorage.theme="dark":localStorage.theme="light",toggleMode()}))})();
 //# sourceMappingURL=app.bundle.js.map
