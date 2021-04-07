@@ -73,7 +73,7 @@
 				{
 					"date": "2021-03-05",
 					"value": 250000,
-					"description": "250.000 € Provision für Maskendeals",
+					"description": "Provision für Maskendeals",
 					"proofs": [
 						"https://www.spiegel.de/politik/deutschland/corona-masken-cdu-hinterbaenkler-kassierte-250-000-euro-provision-a-a5e31c3d-0002-0001-0000-000176138620"
 					]
@@ -91,7 +91,7 @@
 				{
 					"date": "2021-02-21",
 					"value": 660000,
-					"description": "660.000 € Bestechung für Maskendeals",
+					"description": "Bestechung bei Maskendeals",
 					"proofs": [
 						"https://www.spiegel.de/politik/deutschland/georg-nuesslein-csu-politiker-soll-von-hessischem-lieferanten-bestochen-worden-sein-a-4f7a49ca-beb1-40f1-b4a8-3376e9c6d559"
 					]
@@ -108,7 +108,7 @@
 			"accusations": [
 				{
 					"date": "2021-03-17",
-					"description": "1,2 Mio. € Provision für Maskendeals im Zusammenhanhang mit Georg Nüßlein",
+					"description": "Provision für Maskendeals im Zusammenhanhang mit Georg Nüßlein",
 					"value": 1200000,
 					"proofs": [
 						"https://www.br.de/nachrichten/bayern/masken-affaere-razzia-bei-bayerns-ex-justizminister-sauter,SRuPchK",
@@ -178,7 +178,7 @@
 				{
 					"date": "2021-03-14",
 					"value": 7000,
-					"description": "7.000 € Spende Maskendeals an seinen Kreisverband",
+					"description": "Spenden für Maskendeals an seinen Kreisverband",
 					"proofs": [
 						"https://twitter.com/BastianBrauns/status/1371129748366225411"
 					]
@@ -250,7 +250,7 @@
 			"accusations": [
 				{
 					"date": "2017-10-19",
-					"description": "Lobbyismus für Aserbaidschan für mindestens 15.000 €",
+					"description": "Lobbyismus für Aserbaidschan",
 					"value": 15000,
 					"proofs": [
 						"https://www.sueddeutsche.de/politik/bundestag-die-aserbaidschan-connection-1.3671979",
@@ -270,7 +270,7 @@
 			"accusations": [
 				{
 					"date": "2017-09-04",
-					"description": "Lobbyismus für Aserbaidschan für 819.500 €",
+					"description": "Lobbyismus für Aserbaidschan",
 					"value": 819500,
 					"proofs": [
 						"https://www.theguardian.com/world/2017/sep/04/uk-at-centre-of-secret-3bn-azerbaijani-money-laundering-and-lobbying-scheme",
